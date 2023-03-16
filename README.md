@@ -1,2 +1,2 @@
 # conversionOfNumberSystems
-Sayı sistemlerini birbirine dönüştürmek için hazırlanmış ve algoritma geliştirme için yapılmıştır.
+It is prepared to convert number systems to each other and is made for algorithm development.
